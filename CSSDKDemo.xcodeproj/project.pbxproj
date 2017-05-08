@@ -385,7 +385,7 @@
 				19D716991C381BE400D8088D /* iTunesArtwork@2x */,
 				19D716941C381BDC00D8088D /* iTunesArtwork */,
 				268D09A61C0B818F0095B93C /* dSYMs */,
-				1967AB031BDBD849000CA66C /* CoreSDKTestApp */,
+				1967AB031BDBD849000CA66C /* CSSDKDemo */,
 				1967AB021BDBD849000CA66C /* Products */,
 				4F3B15095CC6318289FF63FA /* Frameworks */,
 				268D09871C0B7DF80095B93C /* CSSDKDemo copy-Info.plist */,
@@ -403,7 +403,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		1967AB031BDBD849000CA66C /* CoreSDKTestApp */ = {
+		1967AB031BDBD849000CA66C /* CSSDKDemo */ = {
 			isa = PBXGroup;
 			children = (
 				1967AB041BDBD849000CA66C /* AppDelegate.swift */,
@@ -423,6 +423,7 @@
 				50388CEC1C626C080025C2E4 /* Constants.swift */,
 				50BF28BC1CE62DBA005023F4 /* DemoModel.swift */,
 			);
+			name = CSSDKDemo;
 			path = CoreSDKTestApp;
 			sourceTree = "<group>";
 		};
