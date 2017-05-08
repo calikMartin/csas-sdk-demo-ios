@@ -1,0 +1,6 @@
+github "Ceskasporitelna/cs-locker-ui-sdk-ios.git" ~> 1.0
+github "Ceskasporitelna/cs-uniforms-sdk-ios.git"  ~> 1.0
+github "Ceskasporitelna/cs-transparent-acc-sdk-ios.git"  ~> 1.0
+github "Ceskasporitelna/cs-places-sdk-ios.git"  ~> 1.0
+github "Ceskasporitelna/cs-appmenu-sdk-ios.git"  ~> 1.0
+github "Ceskasporitelna/cs-netbanking-sdk-ios.git"  ~> 1.0

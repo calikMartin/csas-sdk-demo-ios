@@ -1,0 +1,72 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6D2DF5C4DC99DA8EFBA1065A283086086CF0B263",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D0A0A4E5BFEE2B801BBF260EE899BDC85297D339" : 0,
+    "97674C2CF9866C5D0D695103D44D614AF9C3DF4C" : 0,
+    "E36582DBBE841A3EDD30B5F10E49DC84CF0E42C9" : 0,
+    "FC61E626C5C2A882C96F351687F353F8F728802A" : 0,
+    "ED2F6A7DBAF3F740533B639C98DD9EB68394CE49" : 0,
+    "5501EAFF29F557A84B88F066782CBEDB8BF0D6BF" : 0,
+    "6D2DF5C4DC99DA8EFBA1065A283086086CF0B263" : 0,
+    "5C34A779D2E6EBA401FDD0762B922F42CB5ECEDA" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "08B54190-BD99-4DC7-85F3-BB5578C7A5F8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D0A0A4E5BFEE2B801BBF260EE899BDC85297D339" : "csas-sdk-demo-ios\/Carthage\/Checkouts\/cs-core-sdk-ios\/",
+    "97674C2CF9866C5D0D695103D44D614AF9C3DF4C" : "csas-sdk-demo-ios\/Carthage\/Checkouts\/cs-netbanking-sdk-ios\/",
+    "E36582DBBE841A3EDD30B5F10E49DC84CF0E42C9" : "csas-sdk-demo-ios\/Carthage\/Checkouts\/cs-transparent-acc-ios\/",
+    "FC61E626C5C2A882C96F351687F353F8F728802A" : "csas-sdk-demo-ios\/Carthage\/Checkouts\/cs-appmenu-sdk-ios\/",
+    "ED2F6A7DBAF3F740533B639C98DD9EB68394CE49" : "csas-sdk-demo-ios\/Carthage\/Checkouts\/cs-places-sdk-ios\/",
+    "5501EAFF29F557A84B88F066782CBEDB8BF0D6BF" : "csas-sdk-demo-ios\/Carthage\/Checkouts\/cs-uniforms-sdk-ios\/",
+    "6D2DF5C4DC99DA8EFBA1065A283086086CF0B263" : "csas-sdk-demo-ios\/",
+    "5C34A779D2E6EBA401FDD0762B922F42CB5ECEDA" : "csas-sdk-demo-ios\/Carthage\/Checkouts\/cs-locker-ui-sdk-ios\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CSSDKTestApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CSSDKTestApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Ceskasporiteln\/cs-uniforms-sdk-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5501EAFF29F557A84B88F066782CBEDB8BF0D6BF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Ceskasporiteln\/cs-locker-ui-sdk-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5C34A779D2E6EBA401FDD0762B922F42CB5ECEDA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Ceskasporiteln\/csas-sdk-demo-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6D2DF5C4DC99DA8EFBA1065A283086086CF0B263"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Ceskasporiteln\/cs-netbanking-sdk-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "97674C2CF9866C5D0D695103D44D614AF9C3DF4C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Ceskasporiteln\/cs-core-sdk-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D0A0A4E5BFEE2B801BBF260EE899BDC85297D339"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Ceskasporiteln\/cs-transparent-acc-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E36582DBBE841A3EDD30B5F10E49DC84CF0E42C9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Ceskasporiteln\/cs-places-sdk-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ED2F6A7DBAF3F740533B639C98DD9EB68394CE49"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Ceskasporiteln\/cs-appmenu-sdk-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FC61E626C5C2A882C96F351687F353F8F728802A"
+    }
+  ]
+}
