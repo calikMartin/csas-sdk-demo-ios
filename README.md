@@ -6,11 +6,12 @@ This repository contains demo application demonstrating the usage of iOS SDKs by
 
 - [x] **[CoreSDK](https://github.com/Ceskasporitelna/cs-core-sdk-ios)** - Configuration of CoreSDK
 - [x] **[CoreSDK/Locker](https://github.com/Ceskasporitelna/cs-core-sdk-ios/blob/master/docs/locker.md)** - Configuration of Locker & Event handling
-- [x] **[LockerUI](https://github.com/Ceskasporitelna/cs-locker-ui-sdk-ios)** - LockerUI configuration and sample flow
+- [x] **[LockerUI](https://github.com/Ceskasporitelna/cs-locker-ui-sdk-ios)**  - LockerUI configuration and sample flow
 - [x] **[Uniforms](https://github.com/Ceskasporitelna/cs-uniforms-sdk-ios)** - Uniforms configuration and sample flow
-- [x] **[TranspaprenAcc](https://github.com/Ceskasporitelna/cs-transparent-acc-sdk-ios)** - Transparent accounts configuraton and sample flow
-- [x] **[AppMenu](https://github.com/Ceskasporitelna/cs-appmenu-sdk-ios)** - AppMenu - listing applications, checking for version of app and sample flow
-
+- [x] **[Netbanking](https://github.com/Ceskasporitelna/cs-netbanking-sdk-ios)** - Easy and safe access to client acconts, products and transaction history
+- [x] **[TranspaprenAcc](https://github.com/Ceskasporitelna/cs-transparent-acc-sdk-ios)**  - Transparent accounts configuraton and sample flow
+- [x] **[AppMenu](https://github.com/Ceskasporitelna/cs-appmenu-sdk-ios)** - AppMenu - listing applications of  Česká spořitelna a.s, checking for version of app
+- [x] **[Places](https://github.com/Ceskasporitelna/cs-places-sdk-ios)** - Places - list places of Česká spořitelna a.s.
 # [Changelog](CHANGELOG.md)
 
 # Requirements
