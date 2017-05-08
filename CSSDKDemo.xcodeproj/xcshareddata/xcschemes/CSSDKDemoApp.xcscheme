@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1967AB001BDBD849000CA66C"
-               BuildableName = "CSSDKTestApp.app"
+               BuildableName = "CSSDKDemo.app"
                BlueprintName = "CSSDKDemo"
                ReferencedContainer = "container:CSSDKDemo.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1967AB001BDBD849000CA66C"
-            BuildableName = "CSSDKTestApp.app"
+            BuildableName = "CSSDKDemo.app"
             BlueprintName = "CSSDKDemo"
             ReferencedContainer = "container:CSSDKDemo.xcodeproj">
          </BuildableReference>
@@ -56,7 +56,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1967AB001BDBD849000CA66C"
-            BuildableName = "CSSDKTestApp.app"
+            BuildableName = "CSSDKDemo.app"
             BlueprintName = "CSSDKDemo"
             ReferencedContainer = "container:CSSDKDemo.xcodeproj">
          </BuildableReference>
@@ -75,7 +75,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1967AB001BDBD849000CA66C"
-            BuildableName = "CSSDKTestApp.app"
+            BuildableName = "CSSDKDemo.app"
             BlueprintName = "CSSDKDemo"
             ReferencedContainer = "container:CSSDKDemo.xcodeproj">
          </BuildableReference>

@@ -27,7 +27,16 @@ class AppDelegate: UIResponder, UIApplicationDelegate, CoreSDKLoggerDelegate
                 oAuth2ContextBaseUrl: "https://bezpecnost.csast.csas.cz/mep/fs/fl/oauth2",
                 allowUntrustedCertificates: false)
 
-            
+            /*
+             !!!WARNING!!!
+             
+             THE FOLLOWING CREDENTIALS ARE PROVIDED JUST FOR THE PURPOSES OF THIS DEMO.
+             DO NOT USE THEM FOR ANY OTHER PURPOSE. THEY MAY GET DISABLED AT ANY TIME!
+             
+             OBTAIN YOUR OWN CREDENTIALS AT https://developers.csas.cz
+             
+             !!!WARNING!!!
+             */
             CoreSDK.sharedInstance
                 .useWebApiKey("e86bde0a-0cab-4d60-aa18-201edeb58f84")
                 .useEnvironment(environment)
