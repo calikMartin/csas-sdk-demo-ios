@@ -121,10 +121,11 @@ class TransparentAccountTransactionListViewController: CSSdkViewController, UITa
     func tableView( _ tableView: UITableView, didSelectRowAt indexPath: IndexPath )
     {
         tableView.deselectRow(at: indexPath, animated: true)
-        
-        if let transparentAccountTransationDetail = viewControllerWithName("TransparentAccountTransationDetail") as? TransparentAccountTransationDetail {
-            transparentAccountTransationDetail.transaction = self.transactions[indexPath.row]
-            self.navigationController?.pushViewController(transparentAccountTransationDetail, animated: true )
+        if transactions.count < indexPath.row {
+            if let transparentAccountTransationDetail = viewControllerWithName("TransparentAccountTransationDetail") as? TransparentAccountTransationDetail {
+                transparentAccountTransationDetail.transaction = self.transactions[indexPath.row]
+                self.navigationController?.pushViewController(transparentAccountTransationDetail, animated: true )
+            }
         }
     }
     
