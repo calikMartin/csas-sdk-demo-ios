@@ -16,13 +16,10 @@ This repository contains demo application demonstrating the usage of iOS SDKs by
 # Requirements
 
 - iOS 8.1+
-- Xcode 7.3+
-- CSCoreSDK 0.10+
-- CSLockerUI 0.10+
+- Xcode 8.3+
+
 
 # Installation
-
-**IMPORTANT!** You need to have your SSH keys registered with the GitHub since this repository is private.
 
 1) Install latest version of [Carthage](https://github.com/Carthage/Carthage) and make sure you have recent version of `git`.
 
@@ -30,21 +27,17 @@ This repository contains demo application demonstrating the usage of iOS SDKs by
 
 3) Enter into cloned directory using command `cd csas-sdk-demo-ios`.
 
-4) Run command `git submodule init` to initialize required git submodules.
-
-5) Run command `git submodule update` to update required git submodules.
-
-6) Run command `carthage update --platform iOS` to download and set up dependencies and build schemes. This may take a minute or two and patience is the key to get everything working.
+4) Run command `carthage bootstrap --platform iOS` to download and set up dependencies and build schemes. This may take a minute or two and patience is the key to get everything working.
 
 # Usage
 
 ## Running CSAS SDK Demo
 
-To see how the demo application works, just open the project `CSSDKTestApp.xcodeproj` in Xcode.
+To see how the demo application works, just open the project `CSSDKDemo.xcodeproj` in Xcode.
 
-Implementation of the application is in group `CoreSDKTestApp`. Pay special attention to `AppDelegate.swift` and `MainViewController.swift` to see how the frameworks are configured and used.
+Implementation of the application is in group `CSSDKDemo`. Pay special attention to `AppDelegate.swift` and `MainViewController.swift` to see how the frameworks are configured and used.
 
-To run the app in Simulator or on your hardware, simply run the scheme `CSSDKTestApp`.
+To run the app in Simulator or on your hardware, simply run the scheme `CSSDKDemoApp`.
 
 ## Developing against CSAS SDK
 
